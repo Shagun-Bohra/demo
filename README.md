@@ -6,3 +6,5 @@ This is a sample readme file
 
 This is bound to cause trouble!
 Updates in stage
+
+Mor updates in working directory
